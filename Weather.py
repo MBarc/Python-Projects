@@ -17,7 +17,7 @@ import requests
 api_address = "http://api.openweathermap.org/data/2.5/weather?"
 
 #Put your API key here as a String
-api_key = "appid=a0f3d0e12b1a25cb94e35c64d584e337"
+api_key = "appid=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 #This is how the URL requests for the city.
 small_url = "&q="
